@@ -21,7 +21,6 @@ This repository ensures transparency and provides users with easy access to the 
 If you have any questions, concerns, or requests regarding our legal documentation or the use of our bots, feel free to contact us:
 
 - **Email**: [afterpartystaff@botpartyversa.xyz](mailto:afterpartystaff@botpartyversa.xyz)
-- **Website**: [botpartyversa.xyz](https://botpartyversa.xyz)
 
 ## Licensing
 The content of this repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You are free to share and adapt the material as long as proper credit is given.
