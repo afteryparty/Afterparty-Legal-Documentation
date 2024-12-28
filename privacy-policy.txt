@@ -1,37 +1,50 @@
-Privacy Policy for Afterparty Bots
+## **Privacy Policy for Afterparty Bots**
 
-Last updated: November 5, 2023
+**Last Updated:** December 27, 2024
 
-1. Information We Collect
+Afterparty Bots ("we," "our," "us") are committed to protecting the privacy of our users. This Privacy Policy outlines what information we collect, how we use it, and your rights regarding your data when using our bots: VERSA, Afterparty Groovy Music, Lofi Vibes, VoiceMaestro, and Lava ("the Bots").  
 
-- **User Data:** Afterparty Bots may collect and store information provided by Discord users who interact with the bot, including usernames, user IDs, and server-specific data such as channel IDs.
+### **1. Information We Collect**
+- **User Data**:  
+  We may collect the following information when you interact with our Bots:
+  - Usernames, user IDs, and profile data available through Discord.
+  - Server-specific data, such as server IDs, channel IDs, and role IDs.
+  - Message content (only when required for core bot functionality, such as command processing, and only temporarily).  
+- **Interaction Data**:  
+  Data related to your use of the Bots, such as commands issued and features accessed.
 
-2. How We Use Your Information
+### **2. How We Use Your Information**
+We use the collected data to:
+- Enable and enhance the Bots' features, such as music playback, moderation, or role management.
+- Provide personalized experiences and respond to user interactions.
+- Improve the Bots' performance and troubleshoot issues.
+- Ensure compliance with Discord's Terms of Service and Community Guidelines.
 
-- **Bot Functionality:** We use the collected information to provide Discord bot services, including [mention specific bot functionalities], and facilitating interactions within Discord servers.
+### **3. Data Security**
+We take reasonable technical and organizational measures to protect your data, including:
+- Encryption of sensitive data.
+- Restricting access to authorized personnel only.
+- Regularly updating and monitoring our systems to prevent unauthorized access.
 
-3. Data Security
+### **4. Data Sharing**
+We do not sell, rent, or share your personal data with third parties. Data may only be disclosed in the following circumstances:
+- To comply with legal obligations or enforceable governmental requests.
+- With explicit user consent.
 
-- Afterparty Bots takes reasonable measures to protect the data we collect and store, including encryption and access controls.
+### **5. Data Retention**
+- We retain data only for as long as necessary to provide the Bots' functionality or comply with legal obligations.
+- Message content is not stored persistently unless explicitly stated and agreed upon by the user (e.g., custom configurations).
 
-4. Data Sharing
+### **6. User Rights**
+You have the following rights regarding your data:
+- **Access**: Request details about the data we hold on you.
+- **Correction**: Request correction of inaccurate or incomplete data.
+- **Deletion**: Request deletion of your personal data. Note that deleting data may limit or disable certain bot features.  
+To exercise your rights, contact us at **afterpartystaff@botpartyversa.xyz**.
 
-- Afterparty Bots does not sell or share user data with third parties, except as required by law or with explicit user consent.
+### **7. Changes to this Privacy Policy**
+We may update this Privacy Policy periodically to reflect changes in our practices or for legal, technical, or operational reasons. Significant updates will be announced on the bot's official server or website.
 
-5. Data Retention
-
-- Afterparty Bots retains user data only for as long as necessary to provide our services or as required by law.
-
-6. User Rights
-
-- Discord users have the right to request access to, correction of, or deletion of their personal data stored by Afterparty Bots. To make such requests, users should contact us through afterparty18staff@gmail.com.
-
-7. Changes to this Privacy Policy
-
-- Afterparty Bots may update this privacy policy as our services evolve. Users will be notified of any significant changes.
-
-8. Contact Us
-
-- If you have any questions or concerns regarding this privacy policy or our data practices, please contact Afterparty Bots at afterparty18staff@gmail.com.
-
-This updated privacy policy reflects the provided information, and it's important to keep it up to date to ensure transparency and compliance with data protection regulations.
+### **8. Contact Us**
+If you have any questions, concerns, or complaints about this Privacy Policy or our data practices, you can contact us at:  
+**Email**: afterpartystaff@botpartyversa.xyz
