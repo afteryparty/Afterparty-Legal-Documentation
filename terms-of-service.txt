@@ -1,40 +1,36 @@
-Terms of Service for Afterparty Bots
+## **Terms of Service for Afterparty Bots**
 
-Last updated: November 5, 2023
+**Last Updated:** December 27, 2024
 
-By using any bot provided by Afterparty Bots ("the Bot"), you agree to these terms and conditions. Please read them carefully.
+By using the Bots (VERSA, Afterparty Groovy Music, Lofi Vibes, VoiceMaestro, Lava), you agree to these Terms of Service. Please read them carefully.  
 
-1. Use of the Bot
+### **1. Use of the Bots**
+- The Bots are designed to operate within the Discord platform and must be used in compliance with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).  
 
-- You must use the Bot in compliance with Discord's Terms of Service and Community Guidelines.
+### **2. User Conduct**
+- Users agree not to:
+  - Abuse, spam, or misuse the Bots.
+  - Use the Bots for illegal, harmful, or malicious purposes.
+  - Exploit vulnerabilities or attempt to interfere with the Bots' functionality.
 
-2. User Conduct
+### **3. Data Usage**
+- By using the Bots, you consent to the collection and use of data as described in our Privacy Policy.  
 
-- You agree not to misuse or abuse the Bot. This includes, but is not limited to, spamming, harassment, or using the Bot for illegal or malicious purposes.
+### **4. Bot Features and Changes**
+- The Bots' features, functionality, and availability may change over time without prior notice.  
 
-3. Data Usage
+### **5. Termination of Use**
+- We reserve the right to terminate or suspend your access to the Bots at our discretion, without notice, for any reason, including breach of these Terms of Service or Discord's guidelines.  
 
-- The Bot may collect and store user data as outlined in the Bot's Privacy Policy. By using the Bot, you consent to this data collection and usage.
+### **6. Disclaimer of Warranty**
+- The Bots are provided "as is" without warranties of any kind. We do not guarantee uninterrupted or error-free service.  
 
-4. Changes to the Bot
+### **7. Limitation of Liability**
+- We are not liable for any damages resulting from the use or inability to use the Bots, including but not limited to loss of data or server disruption.  
 
-- The Bot's features, functionality, and availability may change over time without notice.
+### **8. Updates to Terms**
+- These Terms of Service may be updated at any time. Users are encouraged to review these terms periodically. Continued use of the Bots constitutes acceptance of the updated terms.  
 
-5. Termination
-
-- We reserve the right to terminate or suspend your access to the Bot at our discretion, with or without cause, and without notice.
-
-6. Disclaimer of Warranty
-
-- The Bot is provided "as is" without warranties of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
-
-7. Limitation of Liability
-
-- In no event shall we be liable for any damages (including, without limitation, damages for loss of data or profit) arising out of the use or inability to use the Bot.
-
-8. Changes to Terms
-- We may update these Terms of Service at any time. You are responsible for regularly reviewing these terms.
-
-9. Contact Us
-
-- If you have any questions or concerns regarding these Terms of Service, please contact us at afterparty18staff@gmail.com.
+### **9. Contact Us**
+For questions or issues related to these Terms of Service, you can reach us at:  
+**Email**: afterpartystaff@botpartyversa.xyz
