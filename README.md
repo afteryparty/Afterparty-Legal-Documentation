@@ -7,6 +7,7 @@ Welcome to the official repository for **Afterparty Bots Legal Documentation**! 
 - **Lofi Vibes**
 - **VoiceMaestro**
 - **Lava**
+- **VerifyBot**
 
 ## Purpose
 This repository ensures transparency and provides users with easy access to the legal documents governing the use of our bots. These documents are compliant with data protection laws and Discord's policies.
