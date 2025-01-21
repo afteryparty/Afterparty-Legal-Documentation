@@ -6,7 +6,7 @@ Welcome to the official repository for **Afterparty Bots Legal Documentation**! 
 - **Afterparty Groovy Music**
 - **Lofi Vibes**
 - **VoiceMaestro**
-- **Lava**
+- **Omni**
 - **VerifyBot**
 
 ## Purpose
