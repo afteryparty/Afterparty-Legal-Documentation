@@ -27,6 +27,6 @@ If you have any questions, concerns, or requests regarding our legal documentati
 The content of this repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You are free to share and adapt the material as long as proper credit is given.
 
 ## Disclaimer
-You can find the updated documents here: [https://github.com/afterparty/legal-docs](https://github.com/afterparty/legal-docs). Any updates to the Privacy Policy or Terms of Service will be reflected here and announced on our bots' official channels.
+You can find the updated documents here: [https://github.com/afteryparty/legal-docs](https://github.com/afteryparty/legal-docs). Any updates to the Privacy Policy or Terms of Service will be reflected here and announced on our bots' official channels.
 
 Thank you for using Afterparty Bots! Your trust and support mean the world to us.
