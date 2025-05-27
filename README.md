@@ -1,7 +1,3 @@
-Here is the updated **Legal Documentation** with your new email address:
-
----
-
 # Legal Documentation for Afterparty Bots
 
 Welcome to the official repository for **Afterparty Bots Legal Documentation**! This repository contains the Privacy Policy and Terms of Service applicable to all Afterparty Bots, including:
