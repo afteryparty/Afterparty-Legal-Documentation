@@ -7,6 +7,7 @@ Welcome to the official repository for **Afterparty Bots Legal Documentation**! 
 * **Lofi Vibes**
 * **VoiceMaestro**
 * **VerifyBot**
+* **KitsuBot**
 
 ## Purpose
 
