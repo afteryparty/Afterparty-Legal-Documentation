@@ -15,7 +15,7 @@ This repository ensures transparency and provides users with easy access to the 
 
 ## Files
 
-* **SentinelLink/legal/privacy-policy.md**
+* **[Privacy Policy](legal/privacy-policy.md)** [Privacy Policy](SentinelLink/legal/privacy-policy.md)
 
   * Details the data we collect, how we use it, and your rights regarding your data.
 * **[Terms of Service](SentinelLink/legal/terms-of-service.md)**
