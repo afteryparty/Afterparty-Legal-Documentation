@@ -35,6 +35,6 @@ The content of this repository is licensed under the **Creative Commons Attribut
 
 ## Disclaimer
 
-You can find the updated documents here: [https://github.com/afterparty/legal-docs](https://github.com/afterparty/legal). Any updates to the Privacy Policy or Terms of Service will be reflected here and announced on our bots' official channels.
+You can find the updated documents here: [https://github.com/afterparty/Afterparty-Legal-Documentation/tree/main](https://github.com/afteryparty/Afterparty-Legal-Documentation/tree/main). Any updates to the Privacy Policy or Terms of Service will be reflected here and announced on our bots' official channels.
 
 Thank you for using Afterparty Bots! Your trust and support mean the world to us.
