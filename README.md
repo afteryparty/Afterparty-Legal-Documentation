@@ -15,10 +15,10 @@ This repository ensures transparency and provides users with easy access to the 
 
 ## Files
 
-* **[Privacy Policy](legal/privacy-policy.md)**
+* **SentinelLink/legal/privacy-policy.md**
 
   * Details the data we collect, how we use it, and your rights regarding your data.
-* **[Terms of Service](legal/terms-of-service.md)**
+* **[Terms of Service](SentinelLink/legal/terms-of-service.md)**
 
   * Outlines the rules and guidelines for using our bots.
 
