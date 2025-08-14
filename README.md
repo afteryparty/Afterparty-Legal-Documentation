@@ -15,10 +15,10 @@ This repository ensures transparency and provides users with easy access to the 
 
 ## Files
 
-* **[Privacy Policy](privacy-policy)** legal/privacy-policy
+* **[Privacy Policy](../legal/privacy-policy.md)**
 
   * Details the data we collect, how we use it, and your rights regarding your data.
-* **[Terms of Service](terms-of-service)** legal/terms-of-service
+* **[Terms of Service](../legal/terms-of-service.md)**
 
   * Outlines the rules and guidelines for using our bots.
 
