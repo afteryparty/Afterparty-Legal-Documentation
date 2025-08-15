@@ -2,7 +2,7 @@
 
 ## Embed Designs
 
-<img align="right" height="180" src="images/Embeds/1.png" />
+<img align="right" height="180" src="images/Embeds/1.png" /> https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/images/Embeds/1.png
 
 ### 1 | default (no pfp)
 A clean embed with all the information you need.  
@@ -10,14 +10,14 @@ This version does not show the banned user's profile picture.
 Everyone can select this embed design.  
 <br clear="all" />
 
-<img align="left" height="180" src="images/Embeds/2.png" />
+<img align="left" height="180" src="images/Embeds/2.png" /> https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/images/Embeds/2.png
 
 ### 2 | default
 A clean embed with all the information you need.  
 Everyone can select this embed design.  
 <br clear="all" />
 
-<img align="right" height="180" src="images/Embeds/4.png" />
+<img align="right" height="180" src="images/Embeds/4.png" /> https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/images/Embeds/4.png
 
 ### 4 | ⭐ default (no motd)
 A clean embed with all the information you need.  
