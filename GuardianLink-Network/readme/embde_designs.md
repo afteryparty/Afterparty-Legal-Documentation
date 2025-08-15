@@ -7,14 +7,14 @@
 ### 1 | default (no pfp)
 A clean embed with all the information you need.  
 This version does not show the banned user's profile picture.  
-Everyone can select this embed design.  
+Available to all GuardianLink users.  
 <br clear="all" />
 
 <img align="left" height="180" src="https://raw.githubusercontent.com/afteryparty/Afterparty-Legal-Documentation/main/GuardianLink-Network/images/Embeds/2.png" />  
 
 ### 2 | default
 A clean embed with all the information you need.  
-Everyone can select this embed design.  
+Available to all GuardianLink users.  
 <br clear="all" />
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/afteryparty/Afterparty-Legal-Documentation/main/GuardianLink-Network/images/Embeds/4.png" />  
@@ -26,8 +26,8 @@ This version does not show the MOTD — like you’re using an ad blocker.
 
 <img align="left" height="180" src="https://raw.githubusercontent.com/afteryparty/Afterparty-Legal-Documentation/main/GuardianLink-Network/images/Embeds/5.png" />  
 
-### 5 | ⭐ SestyZex's DOUSHE ALERT
-Well, this one is a doushe!  
-Plain, simple, and funny — that’s how I am.  
-— *SestyZex*  
+### 5 | ⭐ Guardian Alert
+Our signature GuardianLink alert style.  
+Bold, recognizable, and designed to catch attention quickly in your server.  
+Perfect for highlighting urgent actions taken by moderators.  
 <br clear="all" />
