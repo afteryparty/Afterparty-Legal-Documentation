@@ -24,7 +24,7 @@ A clean embed with all the information you need.
 This version does not show the MOTD — like you’re using an ad blocker.  
 <br clear="all" />
 
-<img align="left" height="180" src="https://raw.githubusercontent.com/afteryparty/Afterparty-Legal-Documentation/main/GuardianLink-Network/images/Embeds/5.png" />  
+<img align="left" height="180" src="https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/images/Embeds/5.png" />  
 
 ### 5 | ⭐ Guardian Alert
 Our signature GuardianLink alert style.  
