@@ -1,4 +1,4 @@
-[Back to main page](https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/SentinelLink/README.md)
+[Back to main page](https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/README.md)
 
 ## Commands
 
