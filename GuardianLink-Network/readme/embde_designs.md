@@ -3,7 +3,6 @@
 ## Embed Designs
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/afteryparty/Afterparty-Legal-Documentation/main/GuardianLink-Network/images/Embeds/1.png" />  
-[View image on GitHub](https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/images/Embeds/1.png)
 
 ### 1 | default (no pfp)
 A clean embed with all the information you need.  
