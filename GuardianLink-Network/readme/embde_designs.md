@@ -11,7 +11,6 @@ Everyone can select this embed design.
 <br clear="all" />
 
 <img align="left" height="180" src="https://raw.githubusercontent.com/afteryparty/Afterparty-Legal-Documentation/main/GuardianLink-Network/images/Embeds/2.png" />  
-[View image on GitHub](https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/images/Embeds/2.png)
 
 ### 2 | default
 A clean embed with all the information you need.  
@@ -19,7 +18,6 @@ Everyone can select this embed design.
 <br clear="all" />
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/afteryparty/Afterparty-Legal-Documentation/main/GuardianLink-Network/images/Embeds/4.png" />  
-[View image on GitHub](https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/images/Embeds/4.png)
 
 ### 4 | ⭐ default (no motd)
 A clean embed with all the information you need.  
@@ -27,7 +25,6 @@ This version does not show the MOTD — like you’re using an ad blocker.
 <br clear="all" />
 
 <img align="left" height="180" src="https://raw.githubusercontent.com/afteryparty/Afterparty-Legal-Documentation/main/GuardianLink-Network/images/Embeds/5.png" />  
-[View image on GitHub](https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/images/Embeds/5.png)
 
 ### 5 | ⭐ SestyZex's DOUSHE ALERT
 Well, this one is a doushe!  
