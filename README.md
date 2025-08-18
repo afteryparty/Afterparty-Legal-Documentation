@@ -39,7 +39,7 @@ You can find the updated documents here: [Afterparty Legal Documentation](https:
 
 ## ❤️ Supporters & Backers
 
-A huge thank you to the amazing people who help us keep Afterparty Bots online and growing through [Patreon](patreon.com/AfterpartyClub).
+A huge thank you to the amazing people who help us keep Afterparty Bots online and growing through [Patreon](https://patreon.com/AfterpartyClub).
 
 ### 🥇 Gold Supporters
 - ShadowPulse#4472
@@ -61,4 +61,4 @@ A huge thank you to the amazing people who help us keep Afterparty Bots online a
 - QuantumVoid
 - AuroraSynth
 
-> Want to see your name here? [Support us on Patreon](patreon.com/AfterpartyClub) and help shape the future of Afterparty Bots!
+> Want to see your name here? [Support us on Patreon](https://patreon.com/AfterpartyClub) and help shape the future of Afterparty Bots!
