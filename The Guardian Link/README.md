@@ -7,7 +7,7 @@ The Guardian Link is a powerful server security companion for Discord. Instantly
 
 
 ## 📦 Embed Designs
-[Browse all available embed styles](https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/GuardianLink-Network/readme/embde_designs.md)
+[Browse all available embed styles](https://github.com/afteryparty/Afterparty-Legal-Documentation/blob/main/The Guardian Link/readme/embde_designs.md)
 
 ## ⚙️ Command Descriptions
 [View detailed command information](readme/commands.md)
