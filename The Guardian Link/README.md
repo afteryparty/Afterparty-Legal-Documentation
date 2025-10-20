@@ -1,4 +1,4 @@
-# GuardianLink
+# The Guardian Link
 
 ![Discord](images/discord.png)
 
