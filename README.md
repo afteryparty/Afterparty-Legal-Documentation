@@ -1,64 +1,81 @@
-# Legal Documentation for Afterparty Bots
+# 🧾 Legal Documentation for Afterparty Bots
 
-Welcome to the official repository for **Afterparty Bots Legal Documentation**! This repository contains the Privacy Policy and Terms of Service applicable to all Afterparty Bots, including:
+[![Website](https://img.shields.io/badge/🌐_Website-afterpartylabs.xyz-blue?style=flat-square)](https://afterpartylabs.xyz)
+[![Patreon](https://img.shields.io/badge/💖_Support-Patreon-orange?style=flat-square)](https://patreon.com/AfterpartyClub)
+[![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
+[![Discord](https://img.shields.io/badge/💬_Join_Us-Discord-7289DA?style=flat-square)](https://discord.gg/afterparty)
 
-* **VERSA**
-* **Afterparty Groovy Music**
-* **Lofi Vibes**
-* **VoiceMaestro**
-* **VerifyBot**
-* **KitsuBot**
 
-## Purpose
 
-This repository ensures transparency and provides users with easy access to the legal documents governing the use of our bots. These documents are compliant with data protection laws and Discord's policies.
+Welcome to the official repository for **Afterparty Bots Legal Documentation**!  
+This repository contains the **Privacy Policy** and **Terms of Service** applicable to all bots under the Afterparty Labs network, including:
 
-## Files
+- **VERSA**  
+- **Afterparty Groovy Music**  
+- **Lofi Vibes**  
+- **VoiceMaestro**  
+- **VerifyBot**  
+- **KitsuBot**
 
-* **[Privacy Policy](legal/privacy-policy)**
-  * Details the data we collect, how we use it, and your rights regarding your data.
-* **[Terms of Service](legal/terms-of-service)**
-  * Outlines the rules and guidelines for using our bots.
 
-## Contact Information
 
-If you have any questions, concerns, or requests regarding our legal documentation or the use of our bots, feel free to contact us:
+## 🎯 Purpose
 
-* **Email**: [support@afterpartylabs.xyz](mailto:support@afterpartylabs.xyz)
-* **Website**: [Afterparty Labs Portal](http://afterpartylabs.xyz)
+This repository ensures transparency and provides users with direct access to the legal documents governing the use of our bots.  
+All documents are compliant with **Discord’s Developer Terms**, **Community Guidelines**, and relevant **data protection laws** such as the **GDPR** and **CCPA**.
 
-## Licensing
 
-The content of this repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You are free to share and adapt the material as long as proper credit is given.
 
-## Disclaimer
+## 📁 Files
 
-You can find the updated documents here: [Afterparty Legal Documentation](https://github.com/afteryparty/Afterparty-Legal-Documentation/tree/main/legal). Any updates to the Privacy Policy or Terms of Service will be reflected here and announced on our bots' official channels.
+- **[Privacy Policy](legal/privacy-policy)**  
+  Details what data we collect, how we use it, and your rights regarding your information.  
+
+- **[Terms of Service](legal/terms-of-service)**  
+  Outlines the rules, limitations, and expectations when using our bots and related services.
+
+
+
+## 📬 Contact Information
+
+If you have any questions, concerns, or legal inquiries regarding our bots or documentation, please reach out:
+
+- **Email:** [support@afterpartylabs.xyz](mailto:support@afterpartylabs.xyz)  
+- **Website:** [afterpartylabs.xyz](https://afterpartylabs.xyz)  
+- **GitHub Repository:** [Afterparty Legal Documentation](https://github.com/afteryparty/Afterparty-Legal-Documentation)
+
+
+
+## ⚖️ Licensing
+
+The contents of this repository are licensed under the  
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material  
+
+As long as proper credit is given and a link to the license is provided.  
+
+📄 [View Full License](https://creativecommons.org/licenses/by/4.0/)
+
+
+
+## 📢 Updates & Disclaimer
+
+You can always find the latest versions of our Privacy Policy and Terms of Service here:  
+👉 [Afterparty Legal Documentation](https://github.com/afteryparty/Afterparty-Legal-Documentation/tree/main/legal)
+
+All updates will be announced via our bots’ official Discord servers or channels.  
+By continuing to use our services, you agree to the most recent terms.
 
 
 
 ## ❤️ Supporters & Backers
 
-A huge thank you to the amazing people who help us keep Afterparty Bots online and growing through [Patreon](https://patreon.com/AfterpartyClub).
+A heartfelt thank-you to everyone who believes in **Afterparty Bots** and our mission to make Discord more powerful, creative, and community-driven.  
 
-### 🥇 Gold Supporters
-- ShadowPulse#4472
-- LunaDev42
-- NexusCoder
-
-### 🥈 Silver Supporters
-- PixelKnight
-- AriaNova#2210
-- DevZeroX
-
-### 🥉 Bronze Supporters
-- MidnightFox
-- Skyfall99
-- EchoByte#7734
-- KaizenFlow
-
-### 💎 Diamond Supporters
-- QuantumVoid
-- AuroraSynth
+We currently **don’t have active Patreon supporters yet** — but that’s where *you* come in!  
+Your support helps us cover hosting costs, improve infrastructure, and launch new features across all our bots.
 
 > Want to see your name here? [Support us on Patreon](https://patreon.com/AfterpartyClub) and help shape the future of Afterparty Bots!
