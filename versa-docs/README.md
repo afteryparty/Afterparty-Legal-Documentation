@@ -8,7 +8,7 @@ documentation for users of the VERSA bot and dashboard.
 
 🌐 **Main Website:** https://botversa.xyz  
 🧭 **Bot Dashboard:** https://botversa.xyz/manage  
-📚 **Help Center:** https://help.botversa.xyz
+📚 **Help Center:** https://help.botversa.xyz - https://github.com/botlabs-gg/yagpdb-docs-v2.git
 
 ---
 
