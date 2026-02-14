@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/🌐_Website-afterpartylabs.xyz-blue?style=flat-square)](https://afterpartylabs.xyz)
 [![Patreon](https://img.shields.io/badge/💖_Support-Patreon-orange?style=flat-square)](https://patreon.com/AfterpartyClub)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
-[![Discord](https://img.shields.io/badge/💬_Join_Us-Discord-7289DA?style=flat-square)](https://discord.gg/UDqAk2MFrh)
+[![Discord](https://img.shields.io/badge/💬_Join_Us-Discord-7289DA?style=flat-square)](https://discord.com/invite/BusuZp2G8w)
 
 
 
