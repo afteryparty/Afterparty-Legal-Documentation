@@ -45,7 +45,7 @@ All changes are managed internally by Afterparty Bot Labs.
 If you need help with VERSA:
 
 - Join the **official support server**  
-  👉 https://discord.gg/UDqAk2MFrh
+  👉 https://discord.gg/BusuZp2G8w
 - Please read the `#information` and `#faq` channels before asking questions
 
 Only resources linked from official VERSA domains or the support server should be considered accurate.
