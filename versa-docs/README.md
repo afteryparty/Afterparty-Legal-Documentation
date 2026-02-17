@@ -8,7 +8,7 @@ documentation for users of the VERSA bot and dashboard.
 
 🌐 **Main Website:** https://botversa.xyz  
 🧭 **Bot Dashboard:** https://botversa.xyz/manage  
-📚 **Help Center:** https://help.botversa.xyz - Here is the site files https://www.dropbox.com/scl/fi/g08olxuakov35wm7zaikb/versa-website.zip?rlkey=8o9abggrxmzcmnl4aj4g51up5&st=upv4klbh&dl=0
+📚 **Help Center:** https://help.botversa.xyz
 
 ---
 
